@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("crddemo!")
+	println("crddemo 0.0.2!")
 }
